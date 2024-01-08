@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend.iml" filepath="$PROJECT_DIR$/.idea/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backoffice-main/backoffice-service.iml" filepath="$PROJECT_DIR$/backoffice-main/backoffice-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sms-main/email-service.iml" filepath="$PROJECT_DIR$/sms-main/email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emission-main/emission-service.iml" filepath="$PROJECT_DIR$/emission-main/emission-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gatewaye-main/gatewaye-service.iml" filepath="$PROJECT_DIR$/api-gatewaye-main/gatewaye-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prospect-client-main/prospect-client-service.iml" filepath="$PROJECT_DIR$/prospect-client-main/prospect-client-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serve-main/serve-service.iml" filepath="$PROJECT_DIR$/serve-main/serve-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-regestry-main/service-discovery.iml" filepath="$PROJECT_DIR$/service-regestry-main/service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallet-main/wallet-service.iml" filepath="$PROJECT_DIR$/wallet-main/wallet-service.iml" />
+    </modules>
+  </component>
+</project>

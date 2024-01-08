@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sms-main/pom.xml" />
+        <option value="$PROJECT_DIR$/serve-main/pom.xml" />
+        <option value="$PROJECT_DIR$/wallet-main/pom.xml" />
+        <option value="$PROJECT_DIR$/emission-main/pom.xml" />
+        <option value="$PROJECT_DIR$/backoffice-main/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gatewaye-main/pom.xml" />
+        <option value="$PROJECT_DIR$/prospect-client-main/pom.xml" />
+        <option value="$PROJECT_DIR$/service-regestry-main/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="20" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gatewaye-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gatewaye-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backoffice-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backoffice-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emission-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/emission-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prospect-client-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prospect-client-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serve-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serve-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-regestry-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-regestry-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sms-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sms-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wallet-main/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

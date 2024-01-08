@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="emission-service" />
+        <module name="prospect-client-service" />
+        <module name="email-service" />
+        <module name="gatewaye-service" />
+        <module name="serve-service" />
+        <module name="backoffice-service" />
+        <module name="wallet-service" />
+        <module name="service-discovery" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="backoffice-service" target="1.8" />
+      <module name="email-service" target="1.8" />
+      <module name="emission-service" target="1.8" />
+      <module name="gatewaye-service" target="1.8" />
+      <module name="prospect-client-service" target="1.8" />
+      <module name="serve-service" target="1.8" />
+      <module name="service-discovery" target="1.8" />
+      <module name="wallet-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="backoffice-service" options="-parameters" />
+      <module name="email-service" options="-parameters" />
+      <module name="emission-service" options="-parameters" />
+      <module name="gatewaye-service" options="-parameters" />
+      <module name="prospect-client-service" options="-parameters" />
+      <module name="serve-service" options="-parameters" />
+      <module name="service-discovery" options="-parameters" />
+      <module name="wallet-service" options="-parameters" />
+    </option>
+  </component>
+</project>
